@@ -14,6 +14,7 @@ const Review = () => {
         </span>
       </div>
       <h4 className="author">{name}</h4>
+      <p className="job">{job}</p>
     </article>
   );
 };
